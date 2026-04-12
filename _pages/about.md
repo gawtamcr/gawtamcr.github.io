@@ -39,12 +39,12 @@ My primary research interests include reinforcement learning, geometric generati
 <p style="font-size:15px;font-weight:700;color:#1e3a8a;margin:0 0 12px 0;">🤖 Robotic Perception and Semantic Reasoning</p>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Deformable Object Manipulation &amp; Vision-Language Models</span><br>
-<a href="#" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
+<a href="#publications" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">3D Scene Graphs, Mapping &amp; Privacy-Preserving Perception</span><br>
-<a href="#" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IMPROVE 2026</a>
-<a href="#" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICPR 2026 (Under Review)</a>
+<a href="#publications" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IMPROVE 2026</a>
+<a href="#publications" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICPR 2026 (Under Review)</a>
 </div>
 </div>
 
@@ -52,12 +52,12 @@ My primary research interests include reinforcement learning, geometric generati
 <p style="font-size:15px;font-weight:700;color:#581c87;margin:0 0 12px 0;">⚙️ Control Policies, Planning &amp; Autonomy</p>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Signal Temporal Logic Constraints &amp; Reinforcement Learning</span><br>
-<a href="#" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Industrial Manipulation</a>
+<a href="#work-experiences" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Industrial Manipulation</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Multi-Agent Path Finding &amp; Trajectory Generation</span><br>
-<a href="#" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Behavior Trees</a>
-<a href="#" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Conflict-Based Search</a>
+<a href="#work-experiences" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Behavior Trees</a>
+<a href="#work-experiences" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Conflict-Based Search</a>
 </div>
 </div>
 
