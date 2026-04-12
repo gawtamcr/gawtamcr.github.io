@@ -39,7 +39,7 @@ My primary research interests include reinforcement learning, geometric generati
 <p style="font-size:15px;font-weight:700;color:#1e3a8a;margin:0 0 12px 0;">🤖 Robotic Perception and Semantic Reasoning</p>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Deformable Object Manipulation &amp; Vision-Language Models</span><br>
-<a href="#publications" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
+<a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">3D Scene Graphs, Mapping &amp; Privacy-Preserving Perception</span><br>
@@ -78,7 +78,7 @@ My primary research interests include reinforcement learning, geometric generati
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.10</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Published and presented findings on taxonomy-guided vision-language models at the <strong>IROS 2025 ROMADO</strong> workshop.</div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Published and presented findings on taxonomy-guided vision-language models at the <strong><a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank">IROS 2025 ROMADO</a></strong> workshop.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
@@ -160,10 +160,10 @@ For a complete academic record, please refer to my [Google Scholar](https://scho
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="#" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Scene Understanding in Deformable Object Manipulation via Taxonomy-Guided Vision-Language Models</span>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold"><a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="color: inherit; text-decoration: none;">Scene Understanding in Deformable Object Manipulation via Taxonomy-Guided Vision-Language Models</a></span>
       <br><b>Gawtam Chithra Ramesh</b>, David Blanco-Mulero, Yifei Dong, Júlia Borràs Sol, Carme Torras, Florian T. Pokorny
-    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">IROS 2025 ROMADO Workshop</span>&nbsp;&nbsp;
+    <br><a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="text-decoration:none;"><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">IROS 2025 ROMADO Workshop</span></a>&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
