@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Gawtam Chithra Ramesh"
+excerpt: "Graduate Student at KTH Royal Institute of Technology specializing in Robotics."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Graduate Student at KTH Royal Institute of Technology pursuing a Master of Science in Systems, Controls, and Robotics. My current research evaluates reinforcement learning, geometric generative modeling, and vision-language models applied to complex robotic manipulation tasks. Prior to this, I completed a Dual Degree in Engineering Design and Robotics at the Indian Institute of Technology Madras. My technical approach emphasizes compositional translation from natural language to robust control policies, particularly under Signal Temporal Logic constraints for long-horizon industrial applications.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My broader research interests encompass robotics, cloud robotics, robotic manipulation, geometric machine learning, and topological data analysis. The field of robotics requires rigorous evaluation of parameter sensitivity, robust scene interpretation, and the seamless integration of high-level semantic reasoning with low-level motion primitives. I aim to advance these areas through empirical validation and theoretically sound methodologies. 
 
+For a complete list of academic outputs, visit my <a href='https://scholar.google.com/citations?user=Qy-ByYcAAAAJ&hl=en'>Google Scholar profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: Initiated Masters Thesis at ABB Robotics focusing on safe translation from natural language to control policies under STL constraints.
+- *2025.10*: Published research on taxonomy-guided vision-language models at the IROS 2025 ROMADO workshop.
+- *2025.07*: Commenced Device Research Internship on 3D Scene Graphs at Ericsson Research.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Scene Understanding in Deformable Object Manipulation via Taxonomy-Guided Vision-Language Models](https://scholar.google.com/citations?user=Qy-ByYcAAAAJ&hl=en)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Gawtam Chithra Ramesh**, David Blanco-Mulero, Yifei Dong, Júlia Borràs Sol, Carme Torras, Florian T. Pokorny
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**IROS 2025** 5th Workshop on RObotic MAnipulation of Deformable Objects (ROMADO). 
+- Investigated the integration of taxonomy-guided vision-language models to interpret deformable object manipulation scenes and map motion primitives. Built a prompt-taxonomy framework to generate structured specifications from high-level prompts.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+*Note: Additional papers are currently under review at ICPR26 and accepted at IMPROVE26.*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *IIT Madras Young Research Fellowship*: Awarded based on remarkable research potential.
+- *Undergraduate Common Entrance Examination for Design*: Secured an All India Rank of 52 out of 50,000.
+- *JEE Advanced & Mains*: Secured 97.64 percentile in JEE Advanced and 99.10 percentile in JEE Mains out of 1.5 million.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2024.08 - 2026.07*, Master of Science in Systems, Controls, and Robotics, KTH Royal Institute of Technology.
+- *2019.08 - 2024.07*, Dual Degree (B.Tech in Engineering Design and M.Tech in Robotics), Indian Institute of Technology Madras.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Experience & Internships
+- *2026.01 - 2026.06*, Masters Thesis Student, ABB Robotics, Västerås, Sweden.
+- *2025.07 - 2025.12*, Device Research Intern (3D Scene Graph), Ericsson Research, Lund, Sweden.
+- *2025.01 - 2025.11*, Graduate Robotics Researcher, Robotics Perception and Learning, KTH, Stockholm, Sweden.
+- *2024.01 - 2024.05*, Researcher (Dual Degree Project on Structure from Motion), INSPIRE Lab, IIT Madras, India.
+- *2022.12 - 2023.07*, Graduate Robotics Intern, Systemantics India Pvt. Ltd., Bangalore, India.
+- *2021.06 - 2021.07*, Robotics Intern, Yaskawa Pvt. Ltd., Gurgaon, India.
