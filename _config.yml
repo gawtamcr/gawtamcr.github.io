@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gawtam Chithra Ramesh"
   avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.jpg"
   bio              : "Robotics Graduate Student at KTH"
   location         : "Stockholm, Sweden"
   employer         :
