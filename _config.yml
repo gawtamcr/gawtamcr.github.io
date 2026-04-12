@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gawtam Chithra Ramesh"
-description              : "Portfolio and academic homepage of Gawtam Chithra Ramesh, a Robotics Graduate Student at KTH Royal Institute of Technology."
+description              : "Gawtam's Homepage."
 repository               : "gawtamcr/gawtamcr.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gawtam Chithra Ramesh"
-  avatar           : "images/android-chrome-512x512.png"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/crg.png"
   bio              : "Robotics Graduate Student at KTH"
   location         : "Stockholm, Sweden"
   employer         :
