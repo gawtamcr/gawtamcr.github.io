@@ -27,7 +27,8 @@ author:
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Qy-ByYcAAAAJ&hl=en"
+  cv               : "assets/cv.pdf"
   email            : "gawtamcr3@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
