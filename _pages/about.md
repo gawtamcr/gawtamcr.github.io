@@ -113,7 +113,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 
 
-# Selected Publications
+# Publications
 <span class='anchor' id='publications'></span>
 
 <p style="font-size:13px;color:#374151;margin-bottom:16px;"><em>For the full publication list, see my <a href="https://scholar.google.com/citations?user=Qy-ByYcAAAAJ&hl=en" target="_blank">Google Scholar</a>.</em></p>
@@ -122,7 +122,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">
         <img src="./images/pdf.png" width="100" height="100">
       </a>
     </td>
@@ -131,7 +131,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
       <br><span style="font-size:12px;color:#374151;"><b>Gawtam Chithra Ramesh</b>, David Blanco-Mulero, Yifei Dong, Júlia Borràs Sol, Carme Torras, Florian T. Pokorny</span>
       <br><em style="font-size:12px;">IROS 2025 ROMADO Workshop</em>
       <br style="margin-top:6px;">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">project page</a>
+      <a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">code</a>
     </td>
   </tr>
   </tbody>
@@ -141,13 +143,16 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <img src="./images/pdf.png" width="100" height="100">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">
+        <img src="./images/pdf.png" width="100" height="100">
+      </a>
     </td>
     <td style="padding:10px 14px;">
       <span style="font-weight:700;font-size:13px;">Robust Object-layer Construction of 3D Scene Graphs Using Instance Segmentation</span>
       <br><span style="font-size:12px;color:#374151;"> <b>Gawtam Chithra Ramesh</b>, Püren Güler, Hiba Alqaysi, Marcus Valtonen Örnhag1, Héctor Caltenco, and Erdal Akin </span>
       <br><em style="font-size:12px;">IMPROVE 2026 (Accepted)</em>
       <br style="margin-top:6px;">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <span style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;display:inline-block;margin:4px 3px 0 0;">paper – to appear</span>
       <!-- <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span> -->
     </td>
@@ -159,12 +164,16 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <img src="./images/pdf.png" width="100" height="100">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">
+        <img src="./images/pdf.png" width="100" height="100">
+      </a>
     </td>
     <td style="padding:10px 14px;">
       <span style="font-weight:700;font-size:13px;">Synchronized RGB-D Inpainting for Privacy-Aware 3D Scene Graph Construction</span>
       <br><span style="font-size:12px;color:#374151;"><b>Gawtam Chithra Ramesh</b>, Püren Güler, Hiba Alqaysi, Marcus Valtonen Örnhag1, Héctor Caltenco, Kayode Sakariyah Adewole, and Erdal Akin </span>
       <br><em style="font-size:12px;">ICPR 2026 (Under Review)</em>
+      <br style="margin-top:6px;">
+      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <!-- <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span> -->
     </td>
   </tr>
