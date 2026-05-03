@@ -123,7 +123,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
       <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank">
-        <img src="./images/pub-romado-2025.png" width="100" height="80" style="object-fit:cover;" onerror="this.src='./images/pdf.png';this.style.height='100px'">
+        <img src="./images/pdf.png" width="100" height="100">
       </a>
     </td>
     <td style="padding:10px 14px;">
@@ -141,15 +141,15 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <img src="./images/pub-improve-2026.png" width="100" height="80" style="object-fit:cover;" onerror="this.src='./images/pdf.png';this.style.height='100px'">
+      <img src="./images/pdf.png" width="100" height="100">
     </td>
     <td style="padding:10px 14px;">
-      <span style="font-weight:700;font-size:13px;">[GAWTAM_TO_FILL: real title from your IMPROVE 2026 draft]</span>
-      <br><span style="font-size:12px;color:#374151;">[GAWTAM_TO_FILL: full author list, with <b>Gawtam Chithra Ramesh</b> bolded]</span>
+      <span style="font-weight:700;font-size:13px;">Robust Object-layer Construction of 3D Scene Graphs Using Instance Segmentation</span>
+      <br><span style="font-size:12px;color:#374151;"> <b>Gawtam Chithra Ramesh</b>, Püren Güler, Hiba Alqaysi, Marcus Valtonen Örnhag1, Héctor Caltenco, and Erdal Akin </span>
       <br><em style="font-size:12px;">IMPROVE 2026 (Accepted)</em>
       <br style="margin-top:6px;">
       <span style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;display:inline-block;margin:4px 3px 0 0;">paper – to appear</span>
-      <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span>
+      <!-- <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span> -->
     </td>
   </tr>
   </tbody>
@@ -159,13 +159,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <img src="./images/pub-icpr-2026.png" width="100" height="80" style="object-fit:cover;" onerror="this.src='./images/pdf.png';this.style.height='100px'">
+      <img src="./images/pdf.png" width="100" height="100">
     </td>
     <td style="padding:10px 14px;">
-      <span style="font-weight:700;font-size:13px;">[GAWTAM_TO_FILL: real title from your ICPR 2026 draft]</span>
-      <br><span style="font-size:12px;color:#374151;">[GAWTAM_TO_FILL: full author list, with <b>Gawtam Chithra Ramesh</b> bolded]</span>
+      <span style="font-weight:700;font-size:13px;">Synchronized RGB-D Inpainting for Privacy-Aware 3D Scene Graph Construction</span>
+      <br><span style="font-size:12px;color:#374151;"><b>Gawtam Chithra Ramesh</b>, Püren Güler, Hiba Alqaysi, Marcus Valtonen Örnhag1, Héctor Caltenco, Kayode Sakariyah Adewole, and Erdal Akin </span>
       <br><em style="font-size:12px;">ICPR 2026 (Under Review)</em>
-      <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span>
+      <!-- <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span> -->
     </td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <img src="./images/proj-stl-fm.gif" alt="STL Flow Matching" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
 <div style="flex:1;min-width:200px;">
 <div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">STL-Guided Flow Matching for Long-Horizon Manipulation</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Master's thesis at ABB Robotics. Steering a single flow-matching model with Signal Temporal Logic robustness gradients to satisfy diverse task specifications at inference time, without retraining. Built on top of SafeFlowMatcher with STLCG++ for differentiable STL evaluation. Currently working on Maze2D and OGBench Cube benchmarks; head-to-head against DAG-STL and ZSTP.</p>
+<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Master's thesis at ABB Robotics. Guiding a flow-matching model with Signal Temporal Logic robustness gradients to satisfy diverse task specifications at inference time, without retraining.</p>
 <div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Signal Temporal Logic</span>
@@ -189,7 +189,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">MuJoCo</span>
 </div>
-<span style="background:#f3f4f6;color:#6b7280;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">code – coming June 2026</span>
+<span style="background:#f3f4f6;color:#6b7280;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">code – coming soon</span>
 </div>
 </div>
 
@@ -206,7 +206,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">RGB-D</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
 </div>
-<a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">GitHub – [GAWTAM_TO_FILL: repo name]</a>
+<a href="https://github.com/gawtamcr/eai2025_project" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
 </div>
 
@@ -223,7 +223,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Taxonomy</span>
 </div>
 <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin-right:6px;">project page</a>
-<a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">GitHub – [GAWTAM_TO_FILL: repo name]</a>
+<a href="https://github.com/gawtamcr/vlm-taxonomy" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
 </div>
 
@@ -239,7 +239,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Unity3D</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">C#</span>
 </div>
-<a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">GitHub – [GAWTAM_TO_FILL: repo name]</a>
+<a href="https://github.com/gawtamcr/multi_agent_path_planning" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
 </div>
 
@@ -254,7 +254,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Unity ML-Agents</span>
 </div>
-<a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">GitHub – [GAWTAM_TO_FILL: repo name]</a>
+<a href="https://github.com/gawtamcr/pacman-ctf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
 </div>
 
