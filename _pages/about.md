@@ -22,7 +22,7 @@ I'm a graduate researcher at the **KTH Royal Institute of Technology**, finishin
 
 My current work uses **flow matching steered by Signal Temporal Logic robustness gradients** to plan robot trajectories that satisfy task specifications without retraining for each new task. Before this, I worked on 3D scene graphs at **Ericsson Research** (lead author on two submissions to IMPROVE 2026 and ICPR 2026), and on deformable object manipulation with vision-language models at the **KTH Robotics, Perception & Learning lab** (presented at ROMADO @ IROS 2025).
 
-I'm drawn to methods that compose — small, well-understood building blocks combined at inference time, rather than monolithic policies retrained per task. Before Sweden, I completed a Dual Degree (B.Tech Engineering Design + M.Tech Robotics) at **IIT Madras**, with hands-on experience deploying real robotic systems at Systemantics, Yaskawa, and Imaginate.
+I'm drawn to methods that compose - small, well-understood building blocks combined at inference time, rather than monolithic policies retrained per task. Before Sweden, I completed a Dual Degree (B.Tech Engineering Design + M.Tech Robotics) at **IIT Madras**, with hands-on experience deploying real robotic systems at Systemantics, Yaskawa, and Imaginate.
 
 
 # Research Interests
@@ -32,7 +32,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;border-radius:8px;padding:16px 20px;">
 <p style="font-size:15px;font-weight:700;color:#1e3a8a;margin:0 0 8px 0;">🤖 Generative Models for Robot Control</p>
-<p style="font-size:13px;color:#374151;margin:0 0 12px 0;">Using formal specifications and learning together — neither replaces the other.</p>
+<p style="font-size:13px;color:#374151;margin:0 0 12px 0;">Using formal specifications and learning together - neither replaces the other.</p>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Signal Temporal Logic + Flow Matching for long-horizon planning</span><br>
 <a href="#projects" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">Thesis</a>
@@ -286,7 +286,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
 </div>
-<span style="font-size:12px;color:#9ca3af;font-style:italic;">No public repo — proprietary.</span>
+<span style="font-size:12px;color:#9ca3af;font-style:italic;">Code – coming soon</span>
 </div>
 </div>
 
@@ -301,10 +301,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2026 – 06/2026</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Master's Thesis Researcher · <span style="font-weight:400;">ABB Robotics, Västerås</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentors: Matthew Lock, Jonathan Styrud</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2026 – 06/2026</span> · Master's Thesis Researcher · <span style="font-weight:400;">ABB Robotics, Västerås</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Signal Temporal Logic</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">MuJoCo</span>
@@ -314,10 +313,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">07/2025 – 12/2025</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Device Research Intern · <span style="font-weight:400;">Ericsson Research, Lund</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentors: Püren Güler, Hector Caltenco</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">07/2025 – 12/2025</span> · Device Research Intern · <span style="font-weight:400;">Ericsson Research, Lund</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">3D Scene Graphs</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Instance Segmentation</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">RGB-D Inpainting</span>
@@ -327,10 +325,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2025 – 11/2025</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Research Assistant · <span style="font-weight:400;">KTH RPL, Stockholm</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Florian T. Pokorny</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2025 – 11/2025</span> · Graduate Research Assistant · <span style="font-weight:400;">KTH RPL, Stockholm</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Vision-Language Models</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Deformable Manipulation</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Taxonomy</span>
@@ -340,10 +337,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2024 – 05/2024</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Dual Degree Project · <span style="font-weight:400;">INSPIRE Lab, IIT Madras</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Nirav Patel</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2024 – 05/2024</span> · Dual Degree Project · <span style="font-weight:400;">INSPIRE Lab, IIT Madras</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">COLMAP</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Structure from Motion</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
@@ -352,23 +348,10 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">08/2023 – 11/2023</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Teaching Assistant · <span style="font-weight:400;">IIT Madras</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Bijo Sebastian · Field &amp; Service Robotics (ID4060)</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">CoppeliaSim</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Field Robotics</span>
-</div>
-</div>
-
-<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">12/2022 – 07/2023</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Robotics Intern · <span style="font-weight:400;">Systemantics India, Bangalore</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Jagannath Raju</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">12/2022 – 07/2023</span> · Graduate Robotics Intern · <span style="font-weight:400;">Systemantics India, Bangalore</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
@@ -379,10 +362,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">09/2021 – 04/2022</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Young Research Fellow · <span style="font-weight:400;">IIT Madras</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Satadal Ghosh · UAV Motion Planning &amp; Control</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">09/2021 – 04/2022</span> · Young Research Fellow · <span style="font-weight:400;">IIT Madras</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">UAV</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Motion Planning</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Obstacle Avoidance</span>
@@ -392,10 +374,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Robotics Intern · <span style="font-weight:400;">Yaskawa, Gurgaon</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Manju Tiwari</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span> · Robotics Intern · <span style="font-weight:400;">Yaskawa, Gurgaon</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">MotoSim</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">3D Palletizing</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
@@ -404,9 +385,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">MOT Research Intern · <span style="font-weight:400;">Blurgs Research Labs, Remote</span></div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span> · MOT Research Intern · <span style="font-weight:400;">Blurgs Research Labs, Remote</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SiamMOT</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">FairMOT</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Multi-Object Tracking</span>
@@ -416,10 +397,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Hyperloop Battery Pack · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
-<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisors: Satya Chakravarthy, T.M. Muruganandam · Top 24 globally, European Hyperloop Week</div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span> · Hyperloop Battery Pack · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Battery Pack Design</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Thermal Management</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ANSYS</span>
@@ -428,9 +408,9 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">05/2020 – 08/2020</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Software Development Intern · <span style="font-weight:400;">Imaginate Software Labs, Remote</span></div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">05/2020 – 08/2020</span> · Software Development Intern · <span style="font-weight:400;">Imaginate Software Labs, Remote</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Unity3D</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C#</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Autodesk Forge</span>
@@ -511,7 +491,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
 <span style="font-size:20px;line-height:1;">🏆</span>
-<span style="font-size:13px;color:#374151;font-weight:500;"><strong>IIT Madras Young Research Fellowship</strong> — selected among 30 of 800+ students based on research potential (2021)</span>
+<span style="font-size:13px;color:#374151;font-weight:500;"><strong>IIT Madras Young Research Fellowship</strong> - selected among 30 of 800+ students based on research potential (2021)</span>
 </div>
 
 <div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
