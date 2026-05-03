@@ -122,7 +122,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND-COLOR: #e2eff9; padding:8px;">
-      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">
+      <a href="https://openreview.net/pdf?id=ZENyCqjkxa" target="_blank">
         <img src="./images/pdf.png" width="100" height="100">
       </a>
     </td>
@@ -131,7 +131,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
       <br><span style="font-size:12px;color:#374151;"><b>Gawtam Chithra Ramesh</b>, David Blanco-Mulero, Yifei Dong, Júlia Borràs Sol, Carme Torras, Florian T. Pokorny</span>
       <br><em style="font-size:12px;">IROS 2025 ROMADO Workshop</em>
       <br style="margin-top:6px;">
-      <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
+      <a href="https://openreview.net/pdf?id=ZENyCqjkxa" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">project page</a>
       <a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">code</a>
     </td>
@@ -186,8 +186,11 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 
 <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:16px 0;">
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="STL Flow Matching" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="STL Flow Matching" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">STL-Guided Flow Matching for Long-Horizon Manipulation</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
@@ -198,9 +201,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 <span style="background:#f3f4f6;color:#6b7280;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">code – coming soon</span>
 </div>
+</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="Semantic Mapping" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="Semantic Mapping" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Open-Vocabulary 3D Semantic Mapping + VLA Deployment</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">OwlV2</span>
@@ -212,9 +219,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 <a href="https://github.com/gawtamcr/eai2025_project" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
+</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="Deformable Object Manipulation" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="Deformable Object Manipulation" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Vision-Language Models for Deformable Object Manipulation</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Vision-Language Models</span>
@@ -226,9 +237,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin-right:5px;">project page</a>
 <a href="https://github.com/gawtamcr/vlm-taxonomy" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
+</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="Multi-Agent Path Finding" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="Multi-Agent Path Finding" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Multi-Agent Path Finding in Unity3D</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">MAPF</span>
@@ -239,9 +254,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 <a href="https://github.com/gawtamcr/multi_agent_path_planning" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
+</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="Pacman CTF" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="Pacman CTF" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">RL + Behavior Trees for Pacman Capture-The-Flag</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Reinforcement Learning</span>
@@ -251,9 +270,13 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 </div>
 <a href="https://github.com/gawtamcr/pacman-ctf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
+</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
-<img src="./images/blob.gif" alt="Systemantics" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
+<div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
+<img src="./images/blob.gif" alt="Systemantics" style="width:90px;height:100%;object-fit:cover;">
+</div>
+<div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">6-DoF Manipulator Trajectory Generation @ Systemantics</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
@@ -264,6 +287,7 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
 </div>
 <span style="font-size:12px;color:#9ca3af;font-style:italic;">No public repo — proprietary.</span>
+</div>
 </div>
 
 </div>
