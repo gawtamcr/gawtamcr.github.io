@@ -89,7 +89,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.10</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Presented our work on taxonomy-guided vision-language models at the <strong><a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank">IROS 2025 ROMADO</a></strong> workshop.</div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Presented our work on taxonomy-guided vision-language models at the <strong>IROS 2025 ROMADO</strong> workshop.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
