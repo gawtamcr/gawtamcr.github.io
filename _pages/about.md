@@ -20,7 +20,7 @@ redirect_from:
 
 I'm a graduate researcher at the **KTH Royal Institute of Technology**, finishing my MSc in Systems, Control & Robotics with a thesis at **ABB Robotics** on generative models for long-horizon manipulation under formal specifications.
 
-My current work uses **flow matching steered by Signal Temporal Logic robustness gradients** to plan robot trajectories that satisfy task specifications without retraining for each new task. Before this, I worked on 3D scene graphs at **Ericsson Research** (lead author on two submissions to IMPROVE 2026 and ICPR 2026), and on deformable object manipulation with vision-language models at the **KTH Robotics, Perception & Learning lab** (presented at ROMADO @ IROS 2025).
+My current work uses flow matching steered by Signal Temporal Logic robustness gradients to plan robot trajectories that satisfy task specifications without retraining for each new task. Before this, I worked on 3D scene graphs at **Ericsson Research** (lead author on two submissions to IMPROVE 2026 and ICPR 2026), and on deformable object manipulation with vision-language models at the **KTH Robotics, Perception & Learning lab** (presented at ROMADO @ IROS 2025).
 
 I'm drawn to methods that compose - small, well-understood building blocks combined at inference time, rather than monolithic policies retrained per task. Before Sweden, I completed a Dual Degree (B.Tech Engineering Design + M.Tech Robotics) at **IIT Madras**, with hands-on experience deploying real robotic systems at Systemantics, Yaskawa, and Imaginate.
 
@@ -39,7 +39,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Vision-Language Models with structured taxonomies for manipulation</span><br>
-<a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
+<span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</span>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Behavior Trees + RL for compositional task execution</span><br>
@@ -496,7 +496,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 
 <div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
 <span style="font-size:20px;line-height:1;">🎖️</span>
-<span style="font-size:13px;color:#374151;font-weight:500;">Secured 99.10 percentile in JEE Mains, 97.64 percentile in JEE Advanced (1.5M candidates), and AIR 52 in UCEED (50k candidates).</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">Secured 99.10 percentile in JEE Mains (1.5M candidates), 97.64 percentile in JEE Advanced (10k candidates) , and AIR 52 in UCEED (50k candidates).</span>
 </div>
 
 </div>
