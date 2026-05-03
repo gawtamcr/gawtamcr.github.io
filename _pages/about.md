@@ -133,7 +133,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
       <br style="margin-top:6px;">
       <a href="https://openreview.net/pdf?id=ZENyCqjkxa" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">project page</a>
-      <a href="[GAWTAM_TO_FILL: GitHub repo URL]" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">code</a>
+      <a href="https://github.com/gawtamcr/vlm-taxonomy" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">code</a>
     </td>
   </tr>
   </tbody>
