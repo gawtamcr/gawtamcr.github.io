@@ -39,7 +39,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Vision-Language Models with structured taxonomies for manipulation</span><br>
-<span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</span>
+<a href="#publications" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">IROS 2025 ROMADO</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Behavior Trees + RL for compositional task execution</span><br>
