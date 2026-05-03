@@ -296,172 +296,150 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
 
-<div style="display:flex;flex-direction:column;gap:12px;margin:16px 0;">
+<div style="position:relative;padding-left:28px;margin:16px 0;">
+<div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Master's Thesis Researcher</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">ABB Robotics</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Mentors: Matthew Lock, Jonathan Styrud</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2026 – 06/2026</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Master's Thesis Researcher · <span style="font-weight:400;">ABB Robotics, Västerås</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentors: Matthew Lock, Jonathan Styrud</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Signal Temporal Logic</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">MuJoCo</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">01/2026 – 06/2026</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Västerås, Sweden</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">STL-guided flow matching for long-horizon industrial manipulation.</div>
-</div>
-
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Graduate Research Assistant</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">KTH Robotics, Perception &amp; Learning Lab</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Advisor: Florian T. Pokorny</div>
-</div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">01/2025 – 11/2025</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Stockholm, Sweden</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Taxonomy-guided VLMs for deformable object manipulation. Presented at ROMADO @ IROS 2025.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Device Research Intern (3D Scene Graphs)</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">Ericsson Research</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Mentors: Püren Güler, Hector Caltenco</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">07/2025 – 12/2025</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Device Research Intern · <span style="font-weight:400;">Ericsson Research, Lund</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentors: Püren Güler, Hector Caltenco</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">3D Scene Graphs</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Instance Segmentation</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">RGB-D Inpainting</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Privacy-Preserving</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">07/2025 – 12/2025</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Lund, Sweden</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">3D Scene Graph pipelines with instance segmentation, tracking, and privacy-preserving RGB-D inpainting. Lead author on IMPROVE 2026 (accepted) and ICPR 2026 (under review).</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Graduate Robotics Intern (Modular Collaborative Robots)</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">Systemantics India Pvt. Ltd.</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Mentor: Jagannath Raju</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2025 – 11/2025</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Research Assistant · <span style="font-weight:400;">KTH RPL, Stockholm</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Florian T. Pokorny</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Vision-Language Models</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Deformable Manipulation</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Taxonomy</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">IROS 2025</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">12/2022 – 07/2023</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Bangalore, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Real-time 6-DoF trajectory generation in C++ over D-Bus/SocketCAN. Backward-chained Behavior Trees for long-horizon planning.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Graduate Teaching Assistant — Field &amp; Service Robotics (ID4060)</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">IIT Madras</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Mentor: Bijo Sebastian</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">01/2024 – 05/2024</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Dual Degree Project · <span style="font-weight:400;">INSPIRE Lab, IIT Madras</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Nirav Patel</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">COLMAP</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Structure from Motion</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">MoveIt</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">08/2023 – 11/2023</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Chennai, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Designed and evaluated ROS + CoppeliaSim assignments for 40 students.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Dual Degree Project — Structure from Motion for Autonomous Ultrasound</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">INSPIRE Lab, IIT Madras</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Advisor: Nirav Patel</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">08/2023 – 11/2023</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Teaching Assistant · <span style="font-weight:400;">IIT Madras</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Bijo Sebastian · Field &amp; Service Robotics (ID4060)</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">CoppeliaSim</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Field Robotics</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">01/2024 – 05/2024</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Chennai, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">COLMAP-based 3D torso reconstruction from monocular RGB; ROS + MoveIt motion planning for a 5-DoF arm to enable accessible ultrasound.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Young Research Fellow — UAV Motion Planning &amp; Control</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">IIT Madras</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Advisor: Satadal Ghosh</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">12/2022 – 07/2023</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Graduate Robotics Intern · <span style="font-weight:400;">Systemantics India, Bangalore</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Jagannath Raju</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">09/2021 – 04/2022</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Chennai, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Target-driven motion planning + obstacle avoidance for UAVs. 20% faster than classical aerospace baselines using proportional navigation + acceleration-velocity obstacles.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Robotics Intern (Pallet Handling)</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">Yaskawa</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Mentor: Manju Tiwari</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">09/2021 – 04/2022</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🔬 Research</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Young Research Fellow · <span style="font-weight:400;">IIT Madras</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisor: Satadal Ghosh · UAV Motion Planning &amp; Control</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">UAV</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Motion Planning</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Obstacle Avoidance</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Proportional Navigation</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">06/2021 – 07/2021</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Gurgaon, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">3D palletizing for mixed carton sizes using MotoSim and teach pendant. Memory-efficient C++ data transfer to robot.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">MOT Research Intern</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">Blurgs Research Labs</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Robotics Intern · <span style="font-weight:400;">Yaskawa, Gurgaon</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Mentor: Manju Tiwari</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">MotoSim</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">3D Palletizing</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">06/2021 – 07/2021</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Remote, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Benchmarked SiamMOT and FairMOT for drone + CCTV surveillance, for the startup's first product with the Indian Navy.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Hyperloop Battery Pack — Avishkar Hyperloop</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">IIT Madras</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Advisors: Satya Chakravarthy, T.M. Muruganandam</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">06/2021 – 07/2021</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">MOT Research Intern · <span style="font-weight:400;">Blurgs Research Labs, Remote</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SiamMOT</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">FairMOT</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Multi-Object Tracking</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Surveillance</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">10/2020 – 06/2021</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Chennai, India</div>
-</div>
-</div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Designed a high-discharge battery pack with aluminum heat sink for thermal management. Top 24 globally for European Hyperloop Week, Valencia.</div>
 </div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
-<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
-<div>
-<div style="font-weight:700;font-size:14px;color:#111827;">Software Development Intern</div>
-<div style="font-size:13px;color:#4b5563;margin-top:3px;">Imaginate Software Labs</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Hyperloop Battery Pack · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
+<div style="font-size:11px;color:#9ca3af;margin-top:1px;">Advisors: Satya Chakravarthy, T.M. Muruganandam · Top 24 globally, European Hyperloop Week</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Battery Pack Design</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Thermal Management</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ANSYS</span>
 </div>
-<div style="text-align:right;">
-<div style="font-size:12px;font-weight:600;color:#374151;">05/2020 – 08/2020</div>
-<div style="font-size:12px;color:#6b7280;margin-top:2px;">Remote, India</div>
 </div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">05/2020 – 08/2020</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;font-weight:600;">Software Development Intern · <span style="font-weight:400;">Imaginate Software Labs, Remote</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;">
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Unity3D</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C#</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Autodesk Forge</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">VR</span>
 </div>
-<div style="font-size:12px;color:#6b7280;margin-top:8px;">Unity3D + C# VR toolkit using Autodesk Forge APIs to import 60+ 3D file formats into VR in real time.</div>
 </div>
 
 </div>
+
 
 
 # Skills
