@@ -184,104 +184,86 @@ I'm drawn to methods that compose — small, well-understood building blocks com
 # Projects
 <span class='anchor' id='projects'></span>
 
-<div style="display:flex;flex-direction:column;gap:16px;margin:16px 0;">
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:16px 0;">
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-stl-fm.gif" alt="STL Flow Matching" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">STL-Guided Flow Matching for Long-Horizon Manipulation</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Master's thesis at ABB Robotics. Guiding a flow-matching model with Signal Temporal Logic robustness gradients to satisfy diverse task specifications at inference time, without retraining.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Signal Temporal Logic</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Manipulation</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">MuJoCo</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="STL Flow Matching" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">STL-Guided Flow Matching for Long-Horizon Manipulation</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Flow Matching</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Signal Temporal Logic</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Manipulation</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">MuJoCo</span>
 </div>
 <span style="background:#f3f4f6;color:#6b7280;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">code – coming soon</span>
 </div>
-</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-semantic-mapping.png" alt="Semantic Mapping" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">Open-Vocabulary 3D Semantic Mapping + VLA Deployment</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Built a 3D semantic mapping pipeline from RGB-D data using OwlV2 (detection), SAM (segmentation), and CLIP (semantic grounding). 2D-to-3D projection with depth fusion produces a queryable scene representation. Deployed a pretrained VLA model for manipulation inference from visual + language inputs, then analyzed generalization failure modes. KTH Robot Learning &amp; Embodied AI course project.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">OwlV2</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">SAM</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">CLIP</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">VLA</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">RGB-D</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="Semantic Mapping" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Open-Vocabulary 3D Semantic Mapping + VLA Deployment</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">OwlV2</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">SAM</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">CLIP</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">VLA</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">RGB-D</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">PyTorch</span>
 </div>
 <a href="https://github.com/gawtamcr/eai2025_project" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
-</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-dom-vlm.png" alt="Deformable Object Manipulation" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">Vision-Language Models for Deformable Object Manipulation</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Research at KTH RPL with Florian Pokorny. Built a prompt–taxonomy framework that gets Gemini and Qwen to produce structured, robot-parsable specifications from natural-language task descriptions of cloth manipulation scenes. Quantified failure modes to guide iterative taxonomy refinement. Presented at ROMADO @ IROS 2025.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Vision-Language Models</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Gemini</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Qwen</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Cloth Manipulation</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Taxonomy</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="Deformable Object Manipulation" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Vision-Language Models for Deformable Object Manipulation</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Vision-Language Models</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Gemini</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Qwen</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Cloth Manipulation</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Taxonomy</span>
 </div>
-<a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin-right:6px;">project page</a>
+<a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin-right:5px;">project page</a>
 <a href="https://github.com/gawtamcr/vlm-taxonomy" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
-</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-mapf.gif" alt="Multi-Agent Path Finding" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">Multi-Agent Path Finding in Unity3D</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Hybrid A* path planner + waypoint tracking for kinematically constrained vehicles, plus Conflict-Based Search to resolve collisions for 20+ heterogeneous agents (cars and drones) sharing one environment. Greedy dynamic goal assignment for the multi-agent 'bakery problem'. KTH course project.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">MAPF</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Conflict-Based Search</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Hybrid A*</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Unity3D</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">C#</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="Multi-Agent Path Finding" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Multi-Agent Path Finding in Unity3D</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">MAPF</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Conflict-Based Search</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Hybrid A*</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Unity3D</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">C#</span>
 </div>
 <a href="https://github.com/gawtamcr/multi_agent_path_planning" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
-</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-pacman-ctf.gif" alt="Pacman CTF" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">RL + Behavior Trees for Pacman Capture-The-Flag</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Hybrid AI for Pacman CTF in Unity3D: a Behavior Tree handles high-level strategy while role-specific PPO policies (attack, defend, escape) handle low-level actions. Trained via Unity ML-Agents with phased training, self-play, and curriculum learning. Studied adaptive behavior switching in a partially observable competitive multi-agent setting.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Reinforcement Learning</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">PPO</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Unity ML-Agents</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="Pacman CTF" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">RL + Behavior Trees for Pacman Capture-The-Flag</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Reinforcement Learning</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">PPO</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Unity ML-Agents</span>
 </div>
 <a href="https://github.com/gawtamcr/pacman-ctf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;">Code</a>
 </div>
-</div>
 
-<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-<img src="./images/proj-systemantics.png" alt="Systemantics" style="width:130px;height:90px;object-fit:cover;border-radius:6px;flex-shrink:0;" onerror="this.style.display='none'">
-<div style="flex:1;min-width:200px;">
-<div style="font-weight:700;font-size:14px;color:#111827;margin-bottom:4px;">6-DoF Manipulator Trajectory Generation @ Systemantics</div>
-<p style="font-size:13px;color:#374151;margin:0 0 8px 0;">Designed and shipped a real-time 6-DoF trajectory generation and control pipeline in C++ for a collaborative robot arm. Joint actuation via low-latency D-Bus and SocketCAN communication with motor controllers. Backward-chained Behavior Trees coordinated long-horizon task planning.</p>
-<div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;">
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">ROS2</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;">
+<img src="./images/blob.gif" alt="Systemantics" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:10px;">
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">6-DoF Manipulator Trajectory Generation @ Systemantics</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS2</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
 </div>
 <span style="font-size:12px;color:#9ca3af;font-style:italic;">No public repo — proprietary.</span>
-</div>
 </div>
 
 </div>
