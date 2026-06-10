@@ -24,6 +24,8 @@ My current work uses flow matching steered by Signal Temporal Logic robustness g
 
 I'm drawn to methods that compose - small, well-understood building blocks combined at inference time, rather than monolithic policies retrained per task. Before Sweden, I completed a Dual Degree (B.Tech Engineering Design + M.Tech Robotics) at **IIT Madras**, with hands-on experience deploying real robotic systems at Systemantics, Yaskawa, and Imaginate.
 
+If any of this resonates — or you just want to chat robots — feel free to <a href="https://calendly.com/gawtamcr3/gawtam-online" target="_blank">book a quick 15-minute call</a>.
+
 
 # Research Interests
 <span class='anchor' id='research-interests'></span>
@@ -154,6 +156,7 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
       <br style="margin-top:6px;">
       <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
       <span style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;display:inline-block;margin:4px 3px 0 0;">paper – to appear</span>
+      <span style="background:#fef3c7;color:#78350f;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;display:inline-block;margin:4px 3px 0 0;">🏆 Best Paper Award · Long Oral</span>
       <!-- <br><span style="font-size:12px;color:#6b7280;margin-top:4px;display:block;">[GAWTAM_TO_FILL: 1–2 sentence description of the paper]</span> -->
     </td>
   </tr>
@@ -277,14 +280,15 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 <img src="./images/blob.gif" alt="Systemantics" style="width:90px;height:100%;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
-<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">6-DoF Manipulator Trajectory Generation @ Systemantics</div>
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:4px;">Full System Controller for Cobot Platform @ Systemantics</div>
+<div style="font-size:12px;color:#6b7280;margin-bottom:8px;">Built from scratch: real-time joint control, S-Curve trajectory generation (7-zone), Behavior Trees for long-horizon task planning (pipetting, kiosk, inspection), ROS2/MoveIt2 with URDF/SRDF, inter-process comms via SocketCAN/FDCAN/semaphores, and initial impedance control for kinesthetic teaching.</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS2</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS2 / MoveIt2</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN / FDCAN</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Linux PREEMPT RT</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
-<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
+<span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Gazebo</span>
 </div>
 <span style="font-size:12px;color:#9ca3af;font-style:italic;">Code – coming soon</span>
 </div>
@@ -353,10 +357,23 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
 <span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏢 Industry</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">D-Bus</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS2 / MoveIt2</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">SocketCAN / FDCAN</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Linux PREEMPT RT</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Real-Time Control</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Gazebo</span>
+</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">08/2023 – 11/2023</span> · Graduate Teaching Assistant · <span style="font-weight:400;">IIT Madras</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Field &amp; Service Robotics</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">CoppeliaSim</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">40 students</span>
 </div>
 </div>
 
@@ -397,11 +414,14 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span> · Hyperloop Battery Pack · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span> · Power Systems Engineer · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
+<div style="font-size:12px;color:#6b7280;margin-top:4px;margin-bottom:6px;">Designed high-discharge battery pack for Hyperloop pod; extended life 10% by reducing peak temperature 10°C with Al heat sink; custom BMS for voltage/temperature monitoring. Won "Most Scalable Design" by Zeleros; selected in top 24 teams at European Hyperloop Week, Valencia.</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
 <span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Battery Pack Design</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Thermal Management</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">BMS</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Fusion360</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ANSYS</span>
 </div>
 </div>
@@ -442,7 +462,9 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 <div style="display:flex;flex-wrap:wrap;gap:5px;">
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">ROS2</span>
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">MuJoCo</span>
+<span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">PyBullet</span>
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">Unity3D</span>
+<span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">CoppeliaSim</span>
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">MATLAB</span>
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">Gazebo</span>
 <span style="background:#d1fae5;color:#065f46;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">MoveIt</span>
@@ -457,6 +479,8 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 <span style="background:#ede9fe;color:#4c1d95;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">OpenCV</span>
 <span style="background:#ede9fe;color:#4c1d95;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">W&amp;B</span>
 <span style="background:#ede9fe;color:#4c1d95;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">CUDA</span>
+<span style="background:#ede9fe;color:#4c1d95;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">YOLO</span>
+<span style="background:#ede9fe;color:#4c1d95;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600;">Unity ML-Agents</span>
 </div>
 </div>
 
@@ -491,12 +515,22 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 
 <div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
 <span style="font-size:20px;line-height:1;">🏆</span>
-<span style="font-size:13px;color:#374151;font-weight:500;"><strong>IIT Madras Young Research Fellowship</strong> - selected among 30 of 800+ students based on research potential (2021)</span>
+<span style="font-size:13px;color:#374151;font-weight:500;"><strong>Best Paper Award (Long Oral)</strong> — IMPROVE 2026 for "Robust Object-layer Construction of 3D Scene Graphs Using Instance Segmentation"</span>
+</div>
+
+<div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🏆</span>
+<span style="font-size:13px;color:#374151;font-weight:500;"><strong>IIT Madras Young Research Fellowship</strong> — selected among top 30 of 800+ students based on research potential (2021)</span>
+</div>
+
+<div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🥇</span>
+<span style="font-size:13px;color:#374151;font-weight:500;"><strong>"Most Scalable Design" Award by Zeleros</strong> (Spanish Hyperloop company); top 24 teams at European Hyperloop Week, Valencia (2021)</span>
 </div>
 
 <div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
 <span style="font-size:20px;line-height:1;">🎖️</span>
-<span style="font-size:13px;color:#374151;font-weight:500;">Secured 99.10 percentile in JEE Mains (1.5M candidates), 97.64 percentile in JEE Advanced (10k candidates) , and AIR 52 in UCEED (50k candidates).</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">Secured 99.10 percentile in JEE Mains (1.5M candidates), 97.64 percentile in JEE Advanced (10k candidates), and AIR 52 in UCEED (50k candidates).</span>
 </div>
 
 </div>
@@ -521,8 +555,10 @@ I'm drawn to methods that compose - small, well-understood building blocks combi
 
 <div style="font-size:13px;font-weight:700;color:#374151;margin:16px 0 8px 0;">Leadership</div>
 <div style="display:flex;flex-direction:column;gap:4px;font-size:13px;color:#374151;">
-<div>Head of Industrial and Public Relations, Dept. of Engineering Design (IIT Madras, 2021–2022). Mentored placement and internship processes for over 1,200 students.</div>
-<div>Strategist, Computer Vision and Intelligence Group (IIT Madras, 2020–2021). Co-mentored Image Analysis projects and organized DL Summer School.</div>
+<div>Head of Industrial and Public Relations, Dept. of Engineering Design (IIT Madras, 2021–2022). Mentored placement and internship processes for over 1,200 students; designed first hybrid recruitment framework.</div>
+<div>Strategist, Computer Vision and Intelligence Group (IIT Madras, 2020–2021). Co-organized DL Summer School (500+ attendees), co-mentored student projects.</div>
+<div>Associate Manager, Entrepreneurship Cell (E-Cell) IIT Madras (2020–2021). Organized Summer Internfair (40 startups), Elevate competition (150 startups), and Annual E-Summit.</div>
+<div>ShARE Junior Consultant (IIT Madras, May 2021). Selected from 200 applicants; global team of 700 across 15 nations; led 'Mobility' module.</div>
 </div>
 
 </div>
