@@ -89,6 +89,12 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.01</span>&nbsp;<span style="background:#fef3c7;color:#78350f;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our 3D scene graph paper won <strong>Best Paper Award (Long Oral)</strong> at <strong>IMPROVE 2026</strong>.</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.10</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Presented our work on taxonomy-guided vision-language models at the <strong>IROS 2025 ROMADO</strong> workshop.</div>
@@ -133,7 +139,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
       <br><span style="font-size:12px;color:#374151;"><b>Gawtam Chithra Ramesh</b>, David Blanco-Mulero, Yifei Dong, Júlia Borràs Sol, Carme Torras, Florian T. Pokorny</span>
       <br><em style="font-size:12px;">IROS 2025 ROMADO Workshop</em>
       <br style="margin-top:6px;">
-      <a href="https://openreview.net/pdf?id=ZENyCqjkxa" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">arXiv</a>
+      <a href="https://openreview.net/pdf?id=ZENyCqjkxa" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">paper</a>
       <a href="https://sites.google.com/view/tax-guided-vlm?pli=1" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">project page</a>
       <a href="https://github.com/gawtamcr/vlm-taxonomy" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:4px 3px 0 0;display:inline-block;">code</a>
     </td>
@@ -351,6 +357,18 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">08/2023 – 11/2023</span> · Graduate Teaching Assistant · <span style="font-weight:400;">IIT Madras</span></div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
+<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Field &amp; Service Robotics</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">CoppeliaSim</span>
+<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">40 students</span>
+</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
 <div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">12/2022 – 07/2023</span> · Graduate Robotics Intern · <span style="font-weight:400;">Systemantics India, Bangalore</span></div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
@@ -361,18 +379,6 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Linux PREEMPT RT</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Behavior Trees</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Gazebo</span>
-</div>
-</div>
-
-<div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">08/2023 – 11/2023</span> · Graduate Teaching Assistant · <span style="font-weight:400;">IIT Madras</span></div>
-<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
-<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Field &amp; Service Robotics</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">CoppeliaSim</span>
-<span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">40 students</span>
 </div>
 </div>
 
