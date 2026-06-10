@@ -73,13 +73,11 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 # News
 <span class='anchor' id='news'></span>
 
-<div style="position:relative;padding-left:28px;margin:16px 0;">
-<div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#6366f1;border:2px solid white;box-shadow:0 0 0 2px #6366f1;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.04</span>&nbsp;<span style="background:#e0e7ff;color:#3730a3;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Working on STL-guided flow matching for long-horizon manipulation as my MSc thesis at <strong>ABB Robotics</strong>. Targeting submission to a top robotics venue.</div>
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.05</span>&nbsp;<span style="background:#fef3c7;color:#78350f;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our 3D scene graph paper won <strong>Best Paper Award (Long Oral)</strong> at <strong>IMPROVE 2026</strong>.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
@@ -88,20 +86,16 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <div style="margin-top:3px;font-size:13px;color:#374151;">Started Master's Thesis research at <strong>ABB Robotics</strong>, focusing on generative models for safe long-horizon manipulation under formal specifications.</div>
 </div>
 
-<div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.01</span>&nbsp;<span style="background:#fef3c7;color:#78350f;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Our 3D scene graph paper won <strong>Best Paper Award (Long Oral)</strong> at <strong>IMPROVE 2026</strong>.</div>
-</div>
+
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.10</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Presented our work on taxonomy-guided vision-language models at the <strong>IROS 2025 ROMADO</strong> workshop.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.07</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">👔 Position</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Joined Device Research Internship analyzing 3D Scene Graphs at <strong>Ericsson Research</strong> in Lund, Sweden.</div>
 </div>
@@ -114,8 +108,8 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.05</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Graduated with Dual Degree in Engineering Design and Robotics at <strong>IIT Madras</strong>, concluding a thesis on Structure from Motion using COLMAP.</div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.06</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Graduated with Dual Degree in Engineering Design and Robotics at <strong>IIT Madras</strong>.</div>
 </div>
 
 </div>
@@ -527,7 +521,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <span style="font-size:13px;color:#374151;font-weight:500;"><strong>IIT Madras Young Research Fellowship</strong> — selected among top 30 of 800+ students based on research potential (2021)</span>
 </div>
 
-<div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<div style="background:#fffbeb;border-left:4px solid #00b100;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
 <span style="font-size:20px;line-height:1;">🥇</span>
 <span style="font-size:13px;color:#374151;font-weight:500;"><strong>"Most Scalable Design" Award by Zeleros</strong> (Spanish Hyperloop company); top 24 teams at European Hyperloop Week, Valencia (2021)</span>
 </div>
@@ -561,7 +555,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <div style="display:flex;flex-direction:column;gap:6px;">
 <div style="display:flex;align-items:baseline;gap:12px;">
 <span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2021–2022</span>
-<span style="font-size:13px;color:#374151;"><strong>Head of Industrial &amp; Public Relations</strong>, Dept. of Engineering Design, IIT Madras. Led placement &amp; internship processes for 1,200+ students; first hybrid recruitment framework.</span>
+<span style="font-size:13px;color:#374151;"><strong>Head of Industrial &amp; Public Relations</strong>, Dept. of Engineering Design, IIT Madras. Co-Led the placement &amp; internship processes for first hybrid recruitment framework.</span>
 </div>
 <div style="display:flex;align-items:baseline;gap:12px;">
 <span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2020–2021</span>
