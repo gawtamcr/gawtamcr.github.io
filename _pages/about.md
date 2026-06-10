@@ -280,8 +280,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <img src="./images/blob.gif" alt="Systemantics" style="width:90px;height:100%;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
-<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:4px;">Full System Controller for Cobot Platform @ Systemantics</div>
-<div style="font-size:12px;color:#6b7280;margin-bottom:8px;">Built from scratch: real-time joint control, S-Curve trajectory generation (7-zone), Behavior Trees for long-horizon task planning (pipetting, kiosk, inspection), ROS2/MoveIt2 with URDF/SRDF, inter-process comms via SocketCAN/FDCAN/semaphores, and initial impedance control for kinesthetic teaching.</div>
+<div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Full System Controller for Cobot Platform @ Systemantics</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">C++</span>
 <span style="background:#f3f4f6;color:#374151;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ROS2 / MoveIt2</span>
@@ -415,7 +414,6 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
 <div style="font-size:13px;color:#374151;font-weight:600;"><span style="font-size:11px;color:#9ca3af;font-weight:500;">10/2020 – 06/2021</span> · Power Systems Engineer · <span style="font-weight:400;">Avishkar Hyperloop, IIT Madras</span></div>
-<div style="font-size:12px;color:#6b7280;margin-top:4px;margin-bottom:6px;">Designed high-discharge battery pack for Hyperloop pod; extended life 10% by reducing peak temperature 10°C with Al heat sink; custom BMS for voltage/temperature monitoring. Won "Most Scalable Design" by Zeleros; selected in top 24 teams at European Hyperloop Week, Valencia.</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;">
 <span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Academic</span>
 <span style="background:#f3f4f6;color:#374151;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;">Battery Pack Design</span>
@@ -554,11 +552,23 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 </div>
 
 <div style="font-size:13px;font-weight:700;color:#374151;margin:16px 0 8px 0;">Leadership</div>
-<div style="display:flex;flex-direction:column;gap:4px;font-size:13px;color:#374151;">
-<div>Head of Industrial and Public Relations, Dept. of Engineering Design (IIT Madras, 2021–2022). Mentored placement and internship processes for over 1,200 students; designed first hybrid recruitment framework.</div>
-<div>Strategist, Computer Vision and Intelligence Group (IIT Madras, 2020–2021). Co-organized DL Summer School (500+ attendees), co-mentored student projects.</div>
-<div>Associate Manager, Entrepreneurship Cell (E-Cell) IIT Madras (2020–2021). Organized Summer Internfair (40 startups), Elevate competition (150 startups), and Annual E-Summit.</div>
-<div>ShARE Junior Consultant (IIT Madras, May 2021). Selected from 200 applicants; global team of 700 across 15 nations; led 'Mobility' module.</div>
+<div style="display:flex;flex-direction:column;gap:6px;">
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2021–2022</span>
+<span style="font-size:13px;color:#374151;"><strong>Head of Industrial &amp; Public Relations</strong>, Dept. of Engineering Design, IIT Madras. Led placement &amp; internship processes for 1,200+ students; first hybrid recruitment framework.</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2020–2021</span>
+<span style="font-size:13px;color:#374151;"><strong>Strategist</strong>, Computer Vision &amp; Intelligence Group, IIT Madras. Co-organized DL Summer School (500+); co-mentored student projects.</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2020–2021</span>
+<span style="font-size:13px;color:#374151;"><strong>Associate Manager</strong>, Entrepreneurship Cell (E-Cell), IIT Madras. Organized Summer Internfair (40 startups), Elevate (150 startups), and Annual E-Summit.</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:60px;">2021</span>
+<span style="font-size:13px;color:#374151;"><strong>ShARE Junior Consultant</strong>, IIT Madras. Selected from 200 applicants; global team of 700 across 15 nations; led 'Mobility' module.</span>
+</div>
 </div>
 
 </div>
