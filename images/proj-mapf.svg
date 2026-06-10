@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <rect width="90" height="90" fill="#dbeafe"/>
+  <!-- Grid -->
+  <g stroke="#bfdbfe" stroke-width="0.8">
+    <line x1="10" y1="10" x2="10" y2="80"/>
+    <line x1="25" y1="10" x2="25" y2="80"/>
+    <line x1="40" y1="10" x2="40" y2="80"/>
+    <line x1="55" y1="10" x2="55" y2="80"/>
+    <line x1="70" y1="10" x2="70" y2="80"/>
+    <line x1="85" y1="10" x2="85" y2="80"/>
+    <line x1="10" y1="10" x2="85" y2="10"/>
+    <line x1="10" y1="25" x2="85" y2="25"/>
+    <line x1="10" y1="40" x2="85" y2="40"/>
+    <line x1="10" y1="55" x2="85" y2="55"/>
+    <line x1="10" y1="70" x2="85" y2="70"/>
+    <line x1="10" y1="80" x2="85" y2="80"/>
+  </g>
+  <!-- Obstacles -->
+  <rect x="25" y="25" width="15" height="15" rx="1" fill="#93c5fd"/>
+  <rect x="55" y="40" width="15" height="15" rx="1" fill="#93c5fd"/>
+  <rect x="40" y="55" width="15" height="15" rx="1" fill="#93c5fd"/>
+  <!-- Agent 1 path (blue) -->
+  <polyline points="17,72 17,57 17,42 17,27 32,17 47,17 62,17 77,17" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Agent 2 path (teal) -->
+  <polyline points="77,72 62,72 47,72 47,57 47,42 32,32 17,32" fill="none" stroke="#0891b2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Agent dots -->
+  <circle cx="17" cy="72" r="4" fill="#1d4ed8"/>
+  <circle cx="77" cy="72" r="4" fill="#0891b2"/>
+  <!-- Goal markers -->
+  <rect x="73" y="13" width="8" height="8" rx="1" fill="none" stroke="#1d4ed8" stroke-width="1.5"/>
+  <rect x="13" y="28" width="8" height="8" rx="1" fill="none" stroke="#0891b2" stroke-width="1.5"/>
+</svg>

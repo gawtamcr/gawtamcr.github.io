@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <rect width="90" height="90" fill="#dbeafe"/>
+  <!-- Maze walls -->
+  <rect x="8" y="8" width="74" height="74" rx="3" fill="none" stroke="#93c5fd" stroke-width="2"/>
+  <rect x="18" y="18" width="20" height="10" rx="1" fill="#93c5fd"/>
+  <rect x="52" y="18" width="20" height="10" rx="1" fill="#93c5fd"/>
+  <rect x="18" y="62" width="20" height="10" rx="1" fill="#93c5fd"/>
+  <rect x="52" y="62" width="20" height="10" rx="1" fill="#93c5fd"/>
+  <rect x="35" y="35" width="20" height="20" rx="2" fill="#93c5fd"/>
+  <!-- Pellets -->
+  <circle cx="24" cy="45" r="2" fill="#60a5fa"/>
+  <circle cx="66" cy="45" r="2" fill="#60a5fa"/>
+  <circle cx="45" cy="24" r="2" fill="#60a5fa"/>
+  <circle cx="45" cy="66" r="2" fill="#60a5fa"/>
+  <!-- Pacman agent (blue) -->
+  <path d="M20 70 A8 8 0 1 1 20 54 L28 62 Z" fill="#1d4ed8"/>
+  <!-- Ghost agent (teal) -->
+  <path d="M62 22 Q70 14 78 22 L78 38 Q74 34 70 38 Q66 34 62 38 Z" fill="#0891b2"/>
+  <circle cx="66" cy="28" r="2" fill="white"/>
+  <circle cx="74" cy="28" r="2" fill="white"/>
+  <!-- BT label -->
+  <rect x="8" y="78" width="16" height="8" rx="2" fill="#1d4ed8"/>
+  <text x="16" y="85" font-family="monospace" font-size="5.5" fill="white" text-anchor="middle">BT</text>
+  <rect x="26" y="78" width="16" height="8" rx="2" fill="#0891b2"/>
+  <text x="34" y="85" font-family="monospace" font-size="5.5" fill="white" text-anchor="middle">RL</text>
+  <rect x="44" y="78" width="22" height="8" rx="2" fill="#7c3aed"/>
+  <text x="55" y="85" font-family="monospace" font-size="5.5" fill="white" text-anchor="middle">PPO</text>
+</svg>

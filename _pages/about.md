@@ -197,7 +197,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="STL Flow Matching" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-stl-flow.svg" alt="STL Flow Matching" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">STL-Guided Flow Matching for Long-Horizon Manipulation</div>
@@ -214,7 +214,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="Semantic Mapping" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-semantic-map.svg" alt="Semantic Mapping" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Open-Vocabulary 3D Semantic Mapping + VLA Deployment</div>
@@ -232,7 +232,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="Deformable Object Manipulation" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-vlm-dom.svg" alt="Deformable Object Manipulation" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Vision-Language Models for Deformable Object Manipulation</div>
@@ -250,7 +250,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="Multi-Agent Path Finding" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-mapf.svg" alt="Multi-Agent Path Finding" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Multi-Agent Path Finding in Unity3D</div>
@@ -267,7 +267,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="Pacman CTF" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-pacman.svg" alt="Pacman CTF" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">RL + Behavior Trees for Pacman Capture-The-Flag</div>
@@ -283,7 +283,7 @@ If any of this resonates — or you just want to chat robots — feel free to <a
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;display:flex;">
 <div style="background:#e2eff9;flex-shrink:0;width:90px;display:flex;align-items:center;justify-content:center;">
-<img src="./images/blob.gif" alt="Systemantics" style="width:90px;height:100%;object-fit:cover;">
+<img src="./images/proj-systemantics.svg" alt="Systemantics" style="width:90px;height:90px;object-fit:cover;">
 </div>
 <div style="padding:12px 14px;">
 <div style="font-weight:700;font-size:13px;color:#111827;margin-bottom:8px;">Full System Controller for Cobot Platform @ Systemantics</div>
